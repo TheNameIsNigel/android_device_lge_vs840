@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo full_ls840-eng
-add_lunch_combo cm_ls840-userdebug
+add_lunch_combo full_vs840-eng
+add_lunch_combo cm_vs840-userdebug
